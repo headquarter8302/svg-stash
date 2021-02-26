@@ -1,5 +1,6 @@
-# svg-stash
+# SVG Stash
 SVG's snatched from the web all of them are under free license, licenses are coupled with svgs like this:
+
     SVGNAME1.svg
     SVGNAME1-LICENSE.txt
     SVGNAME2.svg
